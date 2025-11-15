@@ -107,11 +107,7 @@ To the best of our knowledge, this combination has **never been published**.
 
 ## 📁 Project Structure
 
-* `quantumwave.py` — Full implementation (tokenizer, transformer, training)
-* `datasets/` — Schrödinger dataset generation utilities
-* `experiments/` — Benchmark scripts
-* `visuals/` — Plots & wave evolution results
-
+* `prototype.py` — Full implementation (tokenizer, transformer, training)
 ---
 
 ## 🔬 Research Potential
